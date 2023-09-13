@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @studyyy12
+- 👀 I’m interested in Software Engineering
+- 🌱 I’m currently learning C++ libraries for desktop apps development
+- 📫 How to reach me:
+- telegram: @ffxxxxll
